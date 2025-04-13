@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript Beginner Course",
+    "price": "$40 / month",
+    "description": "Start your web development journey with JavaScript. Learn the basics of JS and how to build interactive websites.",
+    "features": [
+      "Basic syntax and operations",
+      "Functions and loops",
+      "DOM manipulation",
+      "Basic project building"
+    ],
+    "bestFor": "Beginners looking to start web development"
+  },
+  {
+    "id": 2,
+    "name": "Python Full-Stack Course",
+    "price": "$60 / month",
+    "description": "A comprehensive Python course covering both back-end and front-end development, including frameworks like Django.",
+    "features": [
+      "Python basics and data structures",
+      "Web development with Django",
+      "Database management",
+      "Building full-stack projects"
+    ],
+    "bestFor": "Aspiring developers wanting to build full-stack web applications"
+  },
+  {
+    "id": 3,
+    "name": "C++ Advanced Course",
+    "price": "$70 / month",
+    "description": "Master C++ with advanced concepts including memory management, data structures, algorithms, and game development basics.",
+    "features": [
+      "Advanced C++ concepts",
+      "Data structures and algorithms",
+      "Game development basics",
+      "Memory management techniques"
+    ],
+    "bestFor": "Intermediate learners and those looking to deepen their C++ skills"
+  }
+]
