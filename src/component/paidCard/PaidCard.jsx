@@ -16,4 +16,4 @@ const PaidCard = ({ cartPromise }) => {
   );
 };
 
-export default PaidCard;
+export default PaidCard; 
